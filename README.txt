@@ -1,1 +1,1 @@
-This is my first git repo. Make Change
+Small change. This is my first git repo. Make Change
